@@ -12,9 +12,52 @@ Along with a book wishlist, the application will allow users to maintain a list 
 
 ### Target audience ###
 
+Libro's primary audience is for book lovers and enthusiasts. It is primarily for those who wish to keep a track of their reading activities. 
+
+Libro is for those who love keeping a history of books they have read, setting goals for books they wish to read, keeping track of their favourite books and making personal reviews. 
+
+It is great for individuals who read a variety of formats such as ebook, hard copy and audiobooks.
+
+Libros aim is to encourage readers of all ages to read through fostering good reading habits via record keeping. 
+
+
 ### Tech stack ###
 
+**Frontend**
+- ReactJS
+
+**Backend**
+- Ruby 
+- Rails 
+
+**Database**
+- PostgreSQL
+
+**DevOps** 
+- Heroku 
+- Netlify
+
+**Version Control** 
+- Git 
+- GitHub
+- Forking Workflow 
+
+**Project Management** 
+ - Trello 
+ - Discord
+
+**Design**
+ - Boostrap
+ - Figma 
+
+ **Others to think about**
+- AWS S3 ?
+- google book API ?
+
 ### Dataflow Diagram ###
+
+"What is a dataflow diagram"
+https://www.lucidchart.com/pages/data-flow-diagram
 
 ### Application Architecture Diagram ###
 
