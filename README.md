@@ -21,4 +21,7 @@
 
 ### Q5 Wireframes for multiple standard screen sizes, created using industry standard software
 
+this is where we put the wireframes
+
+
 ### Q6 Screenshots of your Trello board throughout the duration of the project
