@@ -61,7 +61,13 @@ https://www.lucidchart.com/pages/data-flow-diagram
 
 ### Application Architecture Diagram ###
 
-### Q4 User Stories
+### Sitemap ###
+
+<!-- ![alt text](image.jpg) -->
+
+![Libro Sitemap](./img/Libro-Sitemap.png)
+
+### User Stories ###
 
 “As a [persona], I [want to], [so that].”
 
@@ -71,3 +77,11 @@ this is where we put the wireframes
 
 
 ### Q6 Screenshots of your Trello board throughout the duration of the project
+
+**Day1**
+
+![Libro Sitemap](./img/day1.png)
+
+**Day2**
+
+![Libro Sitemap](./img/day2.png)
