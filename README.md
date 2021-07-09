@@ -10,6 +10,8 @@ Along with a book wishlist, the application will allow users to maintain a list 
 
 ### Functionality / features ###
 
+
+
 ### Target audience ###
 
 Libro's primary audience is for book lovers and enthusiasts. It is primarily for those who wish to keep a track of their reading activities. 
@@ -63,7 +65,19 @@ https://www.lucidchart.com/pages/data-flow-diagram
 
 ### Q4 User Stories
 
-“As a [persona], I [want to], [so that].”
+“As a lover of books, I want to be able store a wishlist of books I want to read, so that I don't forget which books I have previously discovered. Too often I go into a bookstore and discover dozens of books that really interest me. I would love to read them all but I struggle to find the time. I need to be able to have all the books I want to read in one place, so when I am ready to buy another book I can choose from that list.”
+
+"As a lover of books, I want to be able to store all the books that I have read, so that I can show them to my friends when they ask for recommendations. I read lots of books that I love and want to recommend to others, but sometimes I can't remember what they all are. When friends ask me for recommendations I want a list of books that I can easily show them, and ensure I haven't forgotten any."
+
+"As a bookstore owner, I want to be able to see what books my customers have enjoyed reading. I would like see the ratings and reviews that they have given books so I know which books I should be promoting. I can't read every book in the bookstore so I rely heavily on other peoples opinions to know what are the best books. Seeing customer reviews is very valuable to me."
+
+"As a lover of books, I want to see what books other people have enjoyed. I love discovering new books and I would like a space where I can see other peoples ratings and reviews. It would be useful for when I have a book I'm thinking about reading, to see how other people rated it. It would also be useful for when I want inspiration and browse through a list of books that have a high rating."
+
+"As a lover of books, I would like to see the books that a certain person has recommended. I have similar tastes to them and would like to keep up to date with what they have been reading. I would follow that user's profile and be able to check all the books they have read and see the rating and reviews they gave."
+
+"As an publisher of books, I would like to be able to keep in touch with what people are reading, and the ratings and reviews they are giving each book. It will help me to understand what are the current trends, and help me to decide what type of books I should be publishing. Being able to see all the ratings and reviews to users give to books is valuable customer research for me."
+
+
 
 ### Q5 Wireframes for multiple standard screen sizes, created using industry standard software
 
