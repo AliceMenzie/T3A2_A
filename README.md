@@ -10,7 +10,25 @@ Along with a book wishlist, the application will allow users to maintain a list 
 
 ### Functionality / features ###
 
+- **Create a user account:** Users have the ability to create a new account when they sign up. They provide a username, email, and password. They are asked to confirm the password to ensure they have typed it correctly. 
 
+- **Create a user profile:** Users can create a profile for their account which will show 'Favourite Book', 'Favourite Genres', and an 'About Me' section. 
+
+- **Give Reviews and ratings on books:** Once the user has read a book they can give it a rating and a review. These reviews can be seen by other users if they click on that book on the homepage. 
+
+- **CRUD functionality for books:** The user has the ability to add new books, show the book's details on a show page, update the details, and delete the book.
+
+- **Have a wishlist of books for each user:** When the user adds a book, they indicate if they have read the book. This allows for a page to be created with all the books they are yet to read, which is their book wishlist. 
+
+- **Have a history of books read by a user:** A History page will display all the books that the user has already read. They can click on the book and give it a review and rating. 
+
+- **Have a landing page with books that have a good rating from other users:** The home page will display books that have been given a good rating by other users. 
+
+- **Upload images of book covers:** The user can upload an image of the the bookcover. They attach this to the book, and it's displayed on the book card.
+
+- **Search Google books to get details about books:** An extra feature will be that the user can search google books API to find details of a book.
+
+- **Follow another user to see the books that they recommend:** An extra feature is the ability to follow another user and see the books that they recommend. 
 
 ### Target audience ###
 
@@ -87,8 +105,6 @@ Libros aim is to encourage readers of all ages to read through fostering good re
 "As a lover of books, I would like to see the books that a certain person has recommended. I have similar tastes to them and would like to keep up to date with what they have been reading. I would follow that user's profile and be able to check all the books they have read and see the rating and reviews they gave."
 
 "As an publisher of books, I would like to be able to keep in touch with what people are reading, and the ratings and reviews they are giving each book. It will help me to understand what are the current trends, and help me to decide what type of books I should be publishing. Being able to see all the ratings and reviews to users give to books is valuable customer research for me."
-
-
 
 ### Q5 Wireframes for multiple standard screen sizes, created using industry standard software
 
