@@ -58,16 +58,21 @@ Libros aim is to encourage readers of all ages to read through fostering good re
 
 ### Dataflow Diagram ###
 
-"What is a dataflow diagram"
-https://www.lucidchart.com/pages/data-flow-diagram
+![Libro Sitemap](./img/Libro-Dataflow-Diagram.png)
 
 ### Application Architecture Diagram ###
+
+![Libro Sitemap](./img/Libro-Application-Architecture.png)
 
 ### Sitemap ###
 
 <!-- ![alt text](image.jpg) -->
 
 ![Libro Sitemap](./img/Libro-Sitemap.png)
+
+### ERD ###
+
+![Libro Sitemap](./img/ERD-Libro.png)
 
 ### User Stories ###
 
@@ -87,8 +92,13 @@ https://www.lucidchart.com/pages/data-flow-diagram
 
 ### Q5 Wireframes for multiple standard screen sizes, created using industry standard software
 
-this is where we put the wireframes
+![Libro Sitemap](./img/T3A2-WireFrames.png)
 
+**Mobile View**
+
+**Tablet View**
+
+**Desktop View**
 
 ### Q6 Screenshots of your Trello board throughout the duration of the project
 
@@ -99,3 +109,7 @@ this is where we put the wireframes
 **Day2**
 
 ![Libro Sitemap](./img/day2.png)
+
+**Day2**
+
+![Libro Sitemap](./img/day3.png)
