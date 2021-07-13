@@ -110,6 +110,10 @@ Libros aim is to encourage readers of all ages to read through fostering good re
 
 ![Libro Sitemap](./img/day2.png)
 
-**Day2**
+**Day3**
 
 ![Libro Sitemap](./img/day3.png)
+
+**Day4**
+
+![Libro Sitemap](./img/day4.png)
