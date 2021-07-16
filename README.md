@@ -74,8 +74,8 @@ Libro also aims to connect individuals together and aims to reach users that hav
  **Image Storage**
  - AWS S3
 
- **Others to think about**
-- google book API ?
+ **Others**
+- Google Books API 
 
 ### Dataflow Diagram ###
 
