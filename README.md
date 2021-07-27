@@ -1,5 +1,29 @@
 # T3A2-A Full Stack Application #
-  
+
+## Deployed site 
+
+**Frontend**
+
+https://libro-books.netlify.app/
+
+**Backend**
+
+https://libro-backend.herokuapp.com/
+
+**GitHub**
+
+https://github.com/AliceMenzie/T3A2_client
+https://github.com/Mark-Boyle/T3A2_client
+https://github.com/AliceMenzie/Libro_server
+https://github.com/Mark-Boyle/Libro_server
+
+## Testing 
+
+**Client/Manual**
+
+https://docs.google.com/spreadsheets/d/1q37Xoi31z3zsn1oOg14R7nbzc13L_aQHAvVeVFKukOg/edit?usp=sharing
+
+
 ## Libro ##
 
 ### Purpose ###
@@ -79,21 +103,21 @@ Libro also aims to connect individuals together and aims to reach users that hav
 
 ### Dataflow Diagram ###
 
-![Libro Sitemap](./img/Libro-Dataflow-Diagram.png)
+![Libro Sitemap](./docs/Libro-Dataflow-Diagram.png)
 
 ### Application Architecture Diagram ###
 
-![Libro Sitemap](./img/Libro-Application-Architecture-updated.png)
+![Libro Sitemap](./docs/Libro-Application-Architecture-updated.png)
 
 ### Sitemap ###
 
 <!-- ![alt text](image.jpg) -->
 
-![Libro Sitemap](./img/Libro-Sitemap.png)
+![Libro Sitemap](./docs/Libro-Sitemap.png)
 
 ### ERD ###
 
-![Libro Sitemap](./img/ERD-Libro.png)
+![Libro Sitemap](./docs/ERD-Libro.png)
 
 ### User Stories ###
 
@@ -118,11 +142,11 @@ Libro also aims to connect individuals together and aims to reach users that hav
 ### Q5 Wireframes for multiple standard screen sizes, created using industry standard software
 
 ### WireFrame: Initial Consult
-![Libro Sitemap](./img/T3A2-WireFrames.png)
+![Libro Sitemap](./docs/T3A2-WireFrames.png)
 
 
 ### WireFrame: Follow-up Consult
-![Libro Sitemap](./img/T3A2-WireFrames-updated.png)
+![Libro Sitemap](./docs/T3A2-WireFrames-updated.png)
 
 **Follow-up Consult with Dymocks Notes**
 
@@ -138,39 +162,43 @@ Will need additional consultation with dymocks to fleshout feature: *follow othe
 
 https://trello.com/b/uKkveEEu/t3a2
 
+**Task Delegation**
+
+Each morning we would have a stand up where we discussed what we had achieved the previous day, what issues we had, and what we wanted to achieve for the current day. In these discussions we would look at the trello board and delegate tasks for ourselves. We would look at the tasks left in the 'To-Do' section or backlog, decide who would be allocated to those tasks, or if we would do it in pair-programming, then attach the corresponding label to the task and move it into the 'Doing' section. This allowed us to clearly see who was working on each task.
+
 **Day1**
 
-![Libro Sitemap](./img/day1.png)
+![Libro Sitemap](./docs/day1.png)
 
 Today we started with planning and working with the Dymocks team. They outlined to us their requriements for a booking application for their clients. We made an outline for all the tasks required, time allocated and if it was part of the MVC and any additional features.
 
 **Day2**
 
-![Libro Sitemap](./img/day2.png)
+![Libro Sitemap](./docs/day2.png)
 
 Today we continued to work on the planning, we summarised the purpose, target audience and features of our application. We worked on the application architecture, sitemap and initial wireframing.  
 
 **Day3**
 
-![Libro Sitemap](./img/day3.png)
+![Libro Sitemap](./docs/day3.png)
 
 Today we did more planning we continued to work on the application architecture, sitemap and our wireframes. Additionally we started our dataflow diagram, ERD and set up our source control. 
 
 **Day4**
 
-![Libro Sitemap](./img/day4.png)
+![Libro Sitemap](./docs/day4.png)
 
 Today we started setting up the server side of Libro, creating the book and review models. 
 
 **Day5**
 
-![Libro Sitemap](./img/day5.png)
+![Libro Sitemap](./docs/day5.png)
 
 Today we continued setting up the server side of Libro, reviewing the models from the previous day and adding in the user model. We also started the client side of the application, with initial setup and page views for the home, sign up and login. 
 
 **Day6**
 
-![Libro Sitemap](./img/day6.png)
+![Libro Sitemap](./docs/day6.png)
 
 Today we finialised the initial set up of our server and put our models in code review as updates will be needed whilst developing the client side of our application. We continued to work on the client side of the application adding in a navigation bar and forms to the login and sign up pages.
 
@@ -178,6 +206,30 @@ We made needed changes to implement connectivity between the client and server s
 
 **Day7**
 
-![Libro Sitemap](./img/day7.png)
+![Libro Sitemap](./docs/day7.png)
 
 Today we had a major review of our planning and another meeting with Dymocks, we finalised serveral aspects relating to the users needs (user stories) and the project going forward. Such as reviewing and making changes to the application architecture, wireframes and dataflow diagram. 
+
+### UPDATED 
+
+**Day9**
+![Libro Sitemap](./docs/day9.png)
+
+Today we continued to work on our MVP together, working on navbar, sign up, login, history, wishlist and homepage.  
+
+**Da10**
+![Libro Sitemap](./docs/day10.png)
+
+Today we deployed our website front and backend.
+
+
+**Day11**
+![Libro Sitemap](./docs/day11.png)
+
+Today we worked seprately on design and testing. Redeployed site
+
+
+**Day12**
+![Libro Sitemap](./docs/day12.png)
+
+Today we finalised documentation and the slideshow.
